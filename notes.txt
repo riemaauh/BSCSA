@@ -1,0 +1,5 @@
+Today, I learned more about how to use gitin command prompt. 
+Like git push, git commit, git branch, and other commands. 
+I also learned how to insert a text file inside the branch. 
+It's still very confusing since I'm still a beginner, but I'm learning a lot. 
+I also learned how to change the email, so that was pretty cool.
